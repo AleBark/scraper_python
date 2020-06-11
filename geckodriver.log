@@ -234,3 +234,97 @@ Exiting due to channel error.
 1591470212884	Marionette	WARN	TLS certificate errors will be ignored for this session
 1591470248353	Marionette	INFO	Stopped listening on port 37887
 1591470249260	Marionette	INFO	Stopped listening on port 38495
+1591470778625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQKE2z"
+1591470782893	Marionette	INFO	Listening on port 34939
+1591470782942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591472731283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoxtHZn"
+1591472735645	Marionette	INFO	Listening on port 37479
+1591472735697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591472753639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59rRsn"
+1591472758546	Marionette	INFO	Listening on port 35541
+1591472758575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591472792212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSdmpH2"
+1591472795843	Marionette	INFO	Listening on port 34049
+1591472795924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591472929424	Marionette	INFO	Stopped listening on port 35541
+1591472929442	Marionette	INFO	Stopped listening on port 34939
+1591472929471	Marionette	INFO	Stopped listening on port 34049
+1591472929493	Marionette	INFO	Stopped listening on port 37479
+1591472935275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaAujVy"
+1591472939827	Marionette	INFO	Listening on port 40785
+1591472939896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591473041692	Marionette	INFO	Stopped listening on port 40785
+1591473044924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledWb3zo"
+1591473048798	Marionette	INFO	Listening on port 39059
+1591473048840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591473068664	Marionette	INFO	Stopped listening on port 39059
+1591473128583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8nm3GL"
+1591473132565	Marionette	INFO	Listening on port 44197
+1591473132597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591473349840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePG5Cts"
+1591473350376	Marionette	INFO	Stopped listening on port 44197
+1591473355328	Marionette	INFO	Listening on port 39347
+1591473355367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+1591473496021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile47nmzt"
+1591473500134	Marionette	INFO	Listening on port 41029
+1591473500237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591473615526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAzJ707"
+1591473619533	Marionette	INFO	Listening on port 39063
+1591473619576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591473649295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezPcw7A"
+1591473654422	Marionette	INFO	Listening on port 40663
+1591473654751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591473656554	Marionette	INFO	Stopped listening on port 41029
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591474472329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHiDHcU"
+1591474476540	Marionette	INFO	Listening on port 37591
+1591474476651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/devtools.js, line 732: TypeError: inspector is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/widgets/RequestListContextMenu.js, line 493: TypeError: string is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+JavaScript error: resource://devtools/client/netmonitor/src/utils/request-utils.js, line 58: TypeError: text is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://startupbase.com.br/main.b433b7fb303b5d627a42.js, line 1: TypeError: e is undefined
+1591475579725	Marionette	INFO	Stopped listening on port 37591
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1591475664994	Marionette	INFO	Stopped listening on port 39063
